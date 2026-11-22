@@ -1,57 +1,62 @@
 {
-  "metadata" : {
-    "author" : "Osman Halaçoğlu",
-    "distributionURL" : "https://github.com/halacoglu",
-    "license" : "MIT",
-    "description" : "Monokai Pro (CE) is free, non-commercial and open source."
-  },
-  "isDarkTheme" : true,
-  "keywords" : {
-    "color" : "#FC4675"
-  },
   "attributes" : {
-    "color" : "#69D5E2"
+    "color" : "#41d9e5"
   },
   "background" : {
-    "color" : "#221F23"
+    "color" : "#221f23"
   },
   "characters" : {
-    "color" : "#9A87EE"
+    "color" : "#9d85f5"
   },
   "commands" : {
-    "color" : "#9BD863"
+    "color" : "#8bdb54"
   },
   "comments" : {
-    "color" : "#5F5D5F"
+    "color" : "#5f5d5f"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : false
   },
   "insertionPoint" : {
-    "color" : "#FBFBF9"
+    "color" : "#ffffff",
+    "usesSystemSetting" : false
   },
   "invisibles" : {
-    "color" : "#49474A"
+    "color" : "#49474a"
+  },
+  "keywords" : {
+    "color" : "#ff3374"
   },
   "lineHighlight" : {
-    "color" : "#2A272A"
+    "color" : "#2a272a"
   },
-    "numbers" : {
-    "color" : "#9A87EE"
+  "metadata" : {
+    "author" : "Osman Halaçoğlu",
+    "description" : "Monokai Pro (CE) is free, non-commercial and open source.",
+    "distributionURL" : "https://github.com/halacoglu",
+    "license" : "MIT"
+  },
+  "numbers" : {
+    "color" : "#9d85f6"
   },
   "selection" : {
-    "color" : "#312F32"
+    "color" : "#312f32",
+    "usesSystemSetting" : false
   },
   "strings" : {
-    "color" : "#FED154"
+    "color" : "#ffcf3c"
   },
   "text" : {
-    "color" : "#FBFBF9"
+    "color" : "#fbfbf9"
   },
   "types" : {
-    "color" : "#69D5E2"
+    "color" : "#41d9e5"
   },
   "values" : {
-    "color" : "#9A87EE"
+    "color" : "#9d85f6"
   },
   "variables" : {
-    "color" : "#F98455"
+    "color" : "#ff7d4a"
   }
 }
